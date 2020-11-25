@@ -13,7 +13,16 @@ authors:
 - Cheryl Hahn
 - Casey L. Brown
 - Adi Shaked
-tags: []
+tags: 
+- '"shock"'
+- '"alone"'
+- '"positive emotion"'
+- '"Affect"'
+- '"Boredom"'
+- '"Consciousness"'
+- '"Directed thought"'
+- '"Enjoyment"'
+- '"Thinking"'
 categories: []
 date: '2014-07-01'
 lastmod: 2020-11-24T18:24:19-05:00

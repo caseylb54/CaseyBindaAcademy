@@ -14,6 +14,18 @@ tags:
 - '"emotion regulation"'
 - '"hypothalamus"'
 - '"social support"'
+- '"social regulation"'
+- '"interpersonal emotion regulation"'
+- '"compassion"'
+- '"fmri"'
+- '"neuroimaging"'
+- '"neuroscience"'
+- '"emotion"'
+- '"affect"'
+- '"social"'
+- '"dyad"'
+- '"couple"'
+- '"social baseline theory"'
 categories: []
 date: '2017-01-01'
 lastmod: 2020-11-24T18:24:19-05:00

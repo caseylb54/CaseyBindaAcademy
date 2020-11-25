@@ -13,7 +13,17 @@ authors:
 - Dyan E. Connelly
 - Robert W. Levenson
 - Barbara L. Fredrickson
-tags: []
+tags: 
+- '"positive emotion"'
+- '"neuroimaging"'
+- '"positivity resonance"'
+- '"affect"'
+- '"shared emotion"'
+- '"empathy"'
+- '"marriage"'
+- '"social"'
+- '"dyad"'
+- '"couple"'
 categories: []
 date: '2019-7-01'
 lastmod: 2020-11-24T18:24:18-05:00

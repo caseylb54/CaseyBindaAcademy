@@ -16,6 +16,13 @@ tags:
 - '"Cognitive behavior therapy"'
 - '"Person specific"'
 - '"Single case"'
+- '"idiographic"'
+- '"therapy"'
+- '"intervention"'
+- '"anxiety"'
+- '"depression"'
+- '"emotion"'
+- '"affect"'
 categories: []
 date: '2019-01-01'
 lastmod: 2020-11-24T18:24:20-05:00

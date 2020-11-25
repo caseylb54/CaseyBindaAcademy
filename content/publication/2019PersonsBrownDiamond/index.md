@@ -8,7 +8,18 @@ authors:
 - Jacqueline B. Persons
 - Casey L. Brown
 - Allison Diamond
-tags: []
+tags: 
+- '"Case-formulation"'
+- '"Cognitive behavior therapy"'
+- '"Person specific"'
+- '"Single case"'
+- '"idiographic"'
+- '"therapy"'
+- '"intervention"'
+- '"anxiety"'
+- '"depression"'
+- '"emotion"'
+- '"affect"'
 categories: []
 date: '2019-01-01'
 lastmod: 2020-11-24T21:14:38-05:00

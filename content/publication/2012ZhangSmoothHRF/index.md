@@ -17,6 +17,10 @@ tags:
 - '"Hemodynamic response function"'
 - '"Kernel smoothing"'
 - '"Regularization"'
+- '"fMRI"'
+- '"neuroimaging"'
+- '"brain"'
+- '"neural"'
 categories: []
 date: '2012-11-01'
 lastmod: 2020-11-24T18:24:19-05:00

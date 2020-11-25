@@ -12,7 +12,19 @@ authors:
 - Marcela C. Otero
 - Robert W. Levenson
 - Barbara L. Fredrickson
-tags: []
+tags:
+- '"dyad"'
+- '"couple"'
+- '"emotion"'
+- '"affect"'
+- '"marriage"'
+- '"physiological linkage"'
+- '"physiological synchrony"'
+- '"shared emotion"'
+- '"empathy"'
+- '"health"'
+- '"relationship quality"'
+- '"positivity resonance"'
 categories: []
 date: '2020-09-01'
 lastmod: 2020-11-24T18:24:18-05:00

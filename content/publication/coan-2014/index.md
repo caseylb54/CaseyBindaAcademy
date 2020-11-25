@@ -8,7 +8,13 @@ authors:
 - James A. Coan
 - Casey L. Brown
 - Lane Beckes
-tags: []
+tags:
+- '"dyad"'
+- '"emotion"'
+- '"affect"'
+- '"interpersonal emotion regulation"'
+- '"social regulation"'
+- '"emotion regulation"'
 categories: []
 date: '2014-01-01'
 lastmod: 2020-11-24T18:24:18-05:00

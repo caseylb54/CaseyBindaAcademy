@@ -9,7 +9,19 @@ authors:
 - Tessa V. West
 - Amy H. Sanchez
 - Wendy Berry Mendes
-tags: []
+tags: 
+- '"dyad"'
+- '"emotion"'
+- '"affect"'
+- '"empathic accuracy"'
+- '"physiological synchrony"'
+- '"interpersonal emotion regulation"'
+- '"social regulation"'
+- '"cognitive empathy"'
+- '"physiology"'
+- '"physiological"'
+- '"pre-ejection period"'
+- '"health"'
 categories: []
 date: '2020-09-16'
 lastmod: 2020-11-24T18:24:21-05:00

@@ -10,7 +10,11 @@ authors:
 - Amy Copeland
 - Emily Lee
 - Latasha Nadasdi
-tags: []
+tags: 
+- '"dance"'
+- '"undergraduate journal"'
+- '"autism"'
+- '"development"'
 categories: []
 date: '2011-01-01'
 lastmod: 2020-11-24T18:24:19-05:00

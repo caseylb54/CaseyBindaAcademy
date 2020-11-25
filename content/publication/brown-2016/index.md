@@ -7,7 +7,17 @@ summary: ''
 authors:
 - Casey L. Brown
 - James A. Coan
-tags: []
+tags: 
+- '"dyad"'
+- '"couple"'
+- '"interpersonal emotion regulation"'
+- '"dogs"'
+- '"emotion"'
+- '"affect"'
+- '"social"'
+- '"relationship quality"'
+- '"social support"'
+- '"social baseline theory"'
 categories: []
 date: '2016-01-01'
 lastmod: 2020-11-24T18:24:18-05:00

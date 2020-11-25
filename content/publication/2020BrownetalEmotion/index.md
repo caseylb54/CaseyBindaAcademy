@@ -13,7 +13,16 @@ authors:
 - Dyan E. Connelly
 - Robert W. Levenson
 - Barbara L. Fredrickson
-tags: []
+tags:
+- '"empathy"'
+- '"shared emotion"'
+- '"affect"'
+- '"positive emotion"'
+- '"marriage"'
+- '"relationship quality"'
+- '"social"'
+- '"dyad"'
+- '"couple"'
 categories: []
 date: 'In Press'
 lastmod: 2020-11-24T18:24:21-05:00

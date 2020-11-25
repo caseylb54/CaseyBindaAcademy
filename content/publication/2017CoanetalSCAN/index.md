@@ -19,6 +19,15 @@ tags:
 - '"Perceived social support"'
 - '"Relationships"'
 - '"Threat"'
+- '"fMRI"'
+- '"neuroimaging"'
+- '"compassion"'
+- '"emotion"'
+- '"affect"'
+- '"social"'
+- '"dyad"'
+- '"couple"'
+- '"compassion"'
 categories: []
 date: '2017-01-01'
 lastmod: 2020-11-24T18:24:19-05:00
