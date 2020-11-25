@@ -40,7 +40,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:caseylbrown@berkeley.edu".
+  link: 'mailto:caseylbrown@berkeley.edu'  # For a direct email link, use "mailto:caseylbrown@berkeley.edu".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "caseylb54@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

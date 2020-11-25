@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Pronoun yse during patient-caregiver interactions: Associations with caregiver
+title: 'Pronoun use during patient-caregiver interactions: Associations with caregiver
   well-being'
 subtitle: ''
 summary: ''
