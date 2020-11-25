@@ -14,11 +14,6 @@
   weight = 20
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 30
-
-[[main]]
   name = "ChangeStat"
   url = "https://www.changestat.org"
   weight = 30
