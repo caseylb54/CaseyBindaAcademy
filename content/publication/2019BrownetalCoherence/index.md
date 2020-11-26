@@ -28,7 +28,7 @@ tags:
 - '"physiology"'
 - '"psychophysiology"'
 categories: []
-date: '2020-01-01'
+date: '2019-12-01'
 lastmod: 2020-11-24T18:24:20-05:00
 featured: false
 draft: false
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T23:24:20.185201Z'
+publishDate: '2019-12-24T23:24:20.185201Z'
 publication_types:
 - '2'
 abstract: Emotion theorists have characterized emotions as involving coherent responding

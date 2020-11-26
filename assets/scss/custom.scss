@@ -1,0 +1,9 @@
+.alert-note {
+    color: teal;
+    border-color: teal;
+    background-color: white;
+}
+
+div.alert > div:first-child::before {
+    color: teal;
+}

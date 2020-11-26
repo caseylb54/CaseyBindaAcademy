@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Just think: The challenges of the disengaged mind.'
+title: 'Just think: The challenges of the disengaged mind'
 subtitle: ''
 summary: ''
 authors:
