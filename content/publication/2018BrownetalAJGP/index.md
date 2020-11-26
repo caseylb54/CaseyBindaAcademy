@@ -35,7 +35,7 @@ tags:
 - '"semantic dementia"'
 - '"primary progressive aphasia"'
 - '"nonfluent"'
-- '"Alzheimer's"'
+- '"Alzheimer''s"'
 - '"ALS"'
 - '"PSP"'
 - '"progressive supranuclear palsy"'
