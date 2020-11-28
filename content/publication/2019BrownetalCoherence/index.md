@@ -74,4 +74,8 @@ abstract: Emotion theorists have characterized emotions as involving coherent re
   that are associated with the magnitude of coherence.
 publication: '*Emotion*'
 doi: 10.1037/emo0000579
+links:
+  - icon_pack: fab
+    name: OSF
+    url: 'https://osf.io/e4zmq/'
 ---

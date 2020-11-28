@@ -66,4 +66,8 @@ negative affect, co-experienced positive affect generally outperformed co-experi
 negative affect, although co-experienced negative affect was especially diagnostic during
 the pleasant conversational topic. Findings suggest co-experienced positive affect may be
 an integral component of high-quality relationships and highlight the power of coexperienced affect for individual perceptions of relationship quality."
+links:
+  - icon_pack: fab
+    name: OSF
+    url: 'https://osf.io/msywt/'
 ---

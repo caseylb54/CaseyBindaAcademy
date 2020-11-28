@@ -48,4 +48,8 @@ publication_types:
 abstract: "Although research suggests distressed individuals benefit from others' empathy, it is unclear how an individual's level of empathy influences dyadic responses during emotional situations. In the current study, female participants (N = 140; 70 dyads) were paired with a stranger. One member of each dyad (the experiencer) was randomly assigned to undergo a stressful task and disclose negative personal experiences to their partner (the listener). Experiencers paired with listeners higher in dispositional emotional empathy had less negative affect during emotional disclosure and lower sympathetic nervous system reactivity during the stressful task and disclosure. Listeners higher in emotional empathy reported more negative affect in response to their partner's distress. Furthermore, for listeners higher in emotional empathy, those who more accurately rated their partner's emotions were more physiologically influenced by their partners. Findings shed light on interpersonal functions of empathy and suggest a stranger's level of emotional empathy regulates a distressed partner's emotions and physiology."
 publication: '*Personality and Social Psychology Bulletin*'
 doi: https://doi.org/10.1177/0146167220953987
+links:
+  - icon_pack: fab
+    name: OSF
+    url: 'https://osf.io/7ujyg/'
 ---

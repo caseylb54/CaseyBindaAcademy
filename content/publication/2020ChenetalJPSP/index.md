@@ -75,4 +75,8 @@ abstract: "Physiological linkage refers to the degree to which peoples' physiolo
 publication: '*Journal of personality and social psychology*'
 url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/32897091
 doi: 10.1037/pspi0000337
+links:
+  - icon_pack: fab
+    name: OSF
+    url: 'https://osf.io/pvedh/'
 ---
