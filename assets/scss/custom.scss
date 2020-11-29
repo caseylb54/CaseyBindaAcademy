@@ -6,4 +6,5 @@
 
 div.alert > div:first-child::before {
     color: teal;
+    display: none;
 }
