@@ -24,7 +24,7 @@ tags:
 - '"dyad"'
 - '"couple"'
 categories: []
-date: 'In Press'
+date: '2021-01-01'
 lastmod: 2020-11-24T18:24:21-05:00
 featured: false
 draft: false

@@ -15,7 +15,7 @@
 
 [[main]]
   name = "ChangeStat"
-  url = "https://www.changestat.org"
+  url = "#ChangeStat"
   weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
