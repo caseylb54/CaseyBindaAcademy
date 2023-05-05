@@ -65,7 +65,7 @@ quality. Individual level affect factors added little explanatory value beyond c
 negative affect, co-experienced positive affect generally outperformed co-experienced
 negative affect, although co-experienced negative affect was especially diagnostic during
 the pleasant conversational topic. Findings suggest co-experienced positive affect may be
-an integral component of high-quality relationships and highlight the power of coexperienced affect for individual perceptions of relationship quality."
+an integral component of high-quality relationships and highlight the power of coexperienced affect for individual perceptions of relationship quality.."
 links:
   - icon_pack: fab
     name: OSF

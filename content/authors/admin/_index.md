@@ -6,12 +6,12 @@ title: Casey L. Brown
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Berkeley
-  url: "https://psychology.berkeley.edu/"
+- name: Georgetown University
+  url: "https://psychology.georgetown.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "caseylbrown@berkeley.edu"
+email: "casey.brown@georgetown.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Casey is a postdoctoral fellow in the Berkeley Psychophysiology Laboratory. She earned her PhD in clinical psychology at the University of California, Berkeley, after completing her clinical internship at the University of California, San Francisco. Before graduate school, she served as the Project Coordinator of the Virginia Affective Neuroscience Laboratory and received her BA in psychology and cognitive science from the University of Virginia.
+Casey is an Assistant Professor in the Deparment of Psychology and the Interdisciplinary Program in Neuroscience at Georgetown University. She earned her PhD in clinical psychology at the University of California, Berkeley, after completing her clinical internship at the University of California, San Francisco. Before graduate school, she served as the Project Coordinator of the Virginia Affective Neuroscience Laboratory and received her BA in psychology and cognitive science from the University of Virginia.
 
-Casey’s research examines how we share, understand, and influence one another’s emotions. She’s interested in how these interpersonal emotional processes are beneficial for health, and how these processes go awry and contribute to depression. Her research uses an interdisciplinary and multi-method approach to inform and advance interventions that improve socio-emotional functioning. She works with individuals who have neuropsychiatric and neurodegenerative diseases, as well as neurotypical individuals, and studies a number of different forms of social connections across the lifespan, with a particular focus on aging in dyads.
+Casey’s research examines how we share, understand, and influence one another’s emotions. She’s interested in how these interpersonal emotional processes are beneficial for health, and how these processes go awry and contribute to depression. Her research uses an interdisciplinary and multi-method approach to inform and advance interventions that improve socio-emotional functioning. She works with individuals who have neuropsychiatric and neurodegenerative diseases, as well as neurotypical individuals, and studies a number of different forms of social connections across the lifespan, with a particular focus on aging in dyads. Her research is currently funded by an R00 Pathway to Independence Award from the National Institute on Aging.

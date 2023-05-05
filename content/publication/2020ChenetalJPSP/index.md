@@ -71,7 +71,7 @@ abstract: "Physiological linkage refers to the degree to which peoples' physiolo
   \ to 6 years later). These findings advance our understanding of the nature of physiological\
   \ linkage, the emotional conditions under which it occurs, and its possible associations\
   \ with relational functioning. (PsycInfo Database Record (c) 2020 APA, all rights\
-  \ reserved)."
+  \ reserved).."
 publication: '*Journal of personality and social psychology*'
 url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/32897091
 doi: 10.1037/pspi0000337
